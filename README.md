@@ -18,6 +18,7 @@ base de datos: access
 
     1. el jugador 1 inicia al lado izquierdo, el jugador 2 al lado derecho 
     2. Solo se puede avanzar en las casillas vecinas(horizontal o vertical)
+    3. una vez haya respondido correctamente la casilla se desabilita
 
 
 
